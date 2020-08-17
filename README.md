@@ -1,4 +1,4 @@
-# Baby-Grand
+# Baby Grand
 Baby Grand is an 11u keyboard with a 9-key num/nav pad. It aims to please by offering an HHKB split-space option, as well as a WKL full-space option, and left or right orientation for it's 9-key cluster. 
 
 
