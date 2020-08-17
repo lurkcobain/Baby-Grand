@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Baby Grand",
+    "author": "LurkCobain",
+    "notes": "Baby Grand is an 11u keyboard with a 9-key num/nav pad. It aims to please by offering an HHKB split-space option, as well as a WKL full-space option, and left or right orientation for it's 9-key cluster. \n\n\nPurple keys are interchangeable based on layout, meaning you can also have a WKL split-space if you don't want HHKB split or 7u WKL.",
+    "radii": "20px",
+    "switchMount": "cherry",
+    "pcb": true
+  },
+  [
+    {
+      "c": "#91de85",
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    {
+      "x": 0.5,
+      "c": "#f1ede6"
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "x": 0.5,
+      "c": "#d8db7d",
+      "a": 7
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "c": "#91de85"
+    },
+    "",
+    "",
+    "",
+    {
+      "x": 0.5,
+      "c": "#f1ede6"
+    },
+    "",
+    {
+      "a": 4
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "x": 0.5,
+      "c": "#d8db7d"
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "c": "#91de85"
+    },
+    "",
+    "",
+    "",
+    {
+      "x": 0.5,
+      "c": "#f1ede6",
+      "w": 1.5
+    },
+    "",
+    {
+      "a": 4
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    ">\n.",
+    {
+      "a": 7,
+      "w": 1.5
+    },
+    "",
+    {
+      "x": 0.5,
+      "c": "#d8db7d"
+    },
+    "",
+    "",
+    ""
+  ],
+  [
+    {
+      "x": 3.5,
+      "c": "#b17dc7"
+    },
+    "",
+    {
+      "x": 1,
+      "c": "#c47e8f"
+    },
+    "",
+    {
+      "w": 2.25
+    },
+    "",
+    {
+      "w": 2.75
+    },
+    "",
+    "",
+    {
+      "x": 1,
+      "c": "#b17dc7"
+    },
+    ""
+  ],
+  [
+    {
+      "x": 5.5,
+      "c": "#6db3d1",
+      "w": 7
+    },
+    ""
+  ]
+]
